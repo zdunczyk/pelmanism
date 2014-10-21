@@ -1,0 +1,8 @@
+{
+    "require": {
+        "symfony/yaml": "@stable"
+    },
+    "autoload": {
+        "psr-4": { "Pelmanism\\": "src/Pelmanism" }
+    }
+}
