@@ -9,3 +9,10 @@ With two or more players, take a regular deck of 54 playing cards (including jok
 4. If they do not match and neither card is a joker, you should turn them face down again.
 5. The next player's turn then begins at step #2.
 6. At some point all of the cards on the table should have been matched into pairs. The winning player is the one who matched the most pairs. Equal numbers of pairs will result in a tie.
+
+#### Run
+
+```sh
+composer install
+php pelmanism.php
+```
